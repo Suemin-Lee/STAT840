@@ -1,0 +1,2 @@
+data(faithful)
+names(faithful)
